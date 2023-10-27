@@ -5,7 +5,7 @@
 
 void SkyBox::Setup()
 {
-	_skyBoxCubeMap = ci::gl::TextureCubeMap::create(ci::loadImage(ci::app::loadAsset("test.png")), ci::gl::TextureCubeMap::Format().mipmap());
+	_skyBoxCubeMap = ci::gl::TextureCubeMap::create(ci::loadImage(ci::app::loadAsset("skyBox.png")), ci::gl::TextureCubeMap::Format().mipmap());
 	const auto skyBoxGlsl = ci::gl::GlslProg::create(ci::app::loadAsset("sky_box.vert"), ci::app::loadAsset("sky_box.frag"));
 
 	_skyBoxBatch = ci::gl::Batch::create(ci::geom::Cube() >> ci::geom::Scale(ci::vec3(skyBoxSize)), skyBoxGlsl);
