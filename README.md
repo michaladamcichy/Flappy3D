@@ -2,8 +2,7 @@
 
 ![red](https://github.com/michaladamcichy/Flappy3D/assets/33597927/971ac09e-a9f4-44f0-b543-3758e584c409)
 
-## Is it ray tracing? No! 
-## Is it cool? Yes! ;)
+## Is it ray tracing? No! Is it cool? Yes! ;)
 
 A small project aiming to show my current coding style and practices.
 
