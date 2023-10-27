@@ -1,5 +1,5 @@
 # Flappy3D
-##Is it ray tracing? No! Is it cool? Yes! ;)
+## Is it ray tracing? No! Is it cool? Yes! ;)
 
 A small project aiming to show my current coding style and practices.
 
