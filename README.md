@@ -20,6 +20,6 @@ You can draw your own character and change their color!
 
 ![editor](https://github.com/michaladamcichy/Flappy3D/assets/33597927/2c691828-e5cb-4161-8bcc-6365a7f7a5cd)
 
-
-
-
+## How to build
+Solution path: Flappy3D/project/vc2015/Flappy3D.sln
+You have to download Cinder version 0.9.2 and update include and lib directiories in the solution properties.
